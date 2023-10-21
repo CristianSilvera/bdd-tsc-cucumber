@@ -1,0 +1,4 @@
+node_modules
+allure-results
+wdio.conf.ts
+*.json
